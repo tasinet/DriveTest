@@ -92,7 +92,5 @@ Rage time.
 Why
 ---------------------
 
-Because I wanted to show a seller that both the throughput speed and the integrity of some USB sticks I bought were completely fucked up. Thought I'd share the code, since it worked. 
-
-There's probably over 100 better things than this to use out there, I highly suggest you find one and use it. 
+Because I wanted to demonstrate how some USB sticks I bought were defective. 
 
